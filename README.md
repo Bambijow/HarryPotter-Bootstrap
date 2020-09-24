@@ -1,4 +1,4 @@
-# HarryPotter-Bootstrap
+<div align="center"># HarryPotter-Bootstrap
 
 ___
 
@@ -11,3 +11,4 @@ ___
 ___
 
 ![alt text](https://cdn.discordapp.com/attachments/634120907262263298/758742550818586644/unknown.png "Harry Potter modal preview")
+</div>
