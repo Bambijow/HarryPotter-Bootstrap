@@ -1,5 +1,5 @@
 <div align="center"> 
-  # Site Harry Potter développé suite à une formation BootStrap sur Udemy
+# Site Harry Potter développé suite à une formation BootStrap sur Udemy
 
 ___
 
